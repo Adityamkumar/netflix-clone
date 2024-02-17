@@ -71,6 +71,10 @@ nav{
    border-radius: 6px;
    cursor: pointer;
 }
+button a{
+    color: white;
+    text-decoration: none;
+}
 .signup{
     margin-top:12vw;
     width: 100%;
